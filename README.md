@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Byron!
 - 👀 I’m interested in writing squggles that make games.
-- 🌱 I’m currently working with www.twitter.com/TeamLudophoria making Infinite Bounty
+- 🌱 I’m currently working with www.twitter.com/TeamLudophoria making Arm of Satan
 - 📫 You can find me on www.twitter.com/byron_potion or email bypossum@gmail.com
