@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Byron!
-- 👀 I’m interested in writing squggles that make games.
+- 👀 I write the squggles that make games.
 - 🌱 I’m currently working with www.twitter.com/TeamLudophoria making Arm of Satan
+- 👨‍🎓 I'm an Associate Lecturer in Computing and Game Development at Falmouth University
 - 📫 You can find me on www.twitter.com/byron_potion or email bypossum@gmail.com
